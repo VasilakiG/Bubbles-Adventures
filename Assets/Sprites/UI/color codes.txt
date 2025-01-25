@@ -1,0 +1,13 @@
+2D2D2D Normal Color
+4A4A4A Highlight Color
+2B2424 Pressed Color
+251C1C Selected Color
+
+D5D5D5 Text
+
+
+D0FDFF Vertex Color
+5BD4FFFF Color1
+99FF74FF Color2
+1F6FADFF Color3
+FCFDAAFF Color4
